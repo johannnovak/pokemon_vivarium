@@ -1,0 +1,1 @@
+set environment LD_LIBRARY_PATH ./lib/SFML-2.1/lib/

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<attacks>
+   <attack name="Pound" type="NORMAL" category="physical" pp="35" power="40" accuracy="100"/>
+   <attack name="Karate Chop" type="FIGHTING" category="physical" pp="25" power="50" accuracy="100"/>
+   <attack name="Double Slap" type="NORMAL" category="physical" pp="10" power="15" accuracy="85"/>
+   <attack name="Comet Punch" type="NORMAL" category="physical" pp="15" power="18" accuracy="85"/>
+   <attack name="Mega Punch" type="NORMAL" category="physical" pp="20" power="80" accuracy="85"/>
+   <attack name="Pay Day" type="NORMAL" category="physical" pp="20" power="40" accuracy="100"/>
+   <attack name="Fire Punch" type="FIRE" category="physical" pp="15" power="75" accuracy="100"/>
+   <attack name="Ice Punch" type="ICE" category="physical" pp="15" power="75" accuracy="100"/>
+   <attack name="Thunder Punch" type="ELECTRIC" category="physical" pp="15" power="75" accuracy="100"/>
+   <attack name="Scratch" type="NORMAL" category="physical" pp="35" power="40" accuracy="100"/>
+   <attack name="Vice Grip" type="NORMAL" category="physical" pp="30" power="55" accuracy="100"/>
+   <attack name="Guillotine" type="NORMAL" category="physical" pp="5" power="2000" accuracy="30"/>
+   <attack name="Razor Wind" type="NORMAL" category="special" pp="10" power="80" accuracy="100"/>
+   <attack name="Swords Dance" type="NORMAL" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Cut" type="NORMAL" category="physical" pp="30" power="50" accuracy="95"/>
+   <attack name="Gust" type="NORMAL" category="special" pp="35" power="40" accuracy="100"/>
+   <attack name="Wing Attack" type="FLYING" category="physical" pp="35" power="35" accuracy="100"/>
+   <attack name="Whirlwind" type="NORMAL" category="status" pp="20" power="0" accuracy="85"/>
+   <attack name="Fly" type="FLYING" category="physical" pp="15" power="70" accuracy="95"/>
+   <attack name="Bind" type="NORMAL" category="physical" pp="20" power="15" accuracy="75"/>
+   <attack name="Slam" type="NORMAL" category="physical" pp="20" power="80" accuracy="75"/>
+   <attack name="Vine Whip" type="GRASS" category="physical" pp="10" power="35" accuracy="100"/>
+   <attack name="Stomp" type="NORMAL" category="physical" pp="20" power="65" accuracy="100"/>
+   <attack name="Double Kick" type="FIGHTING" category="physical" pp="30" power="30" accuracy="100"/>
+   <attack name="Mega Kick" type="NORMAL" category="physical" pp="5" power="120" accuracy="75"/>
+   <attack name="Jump Kick" type="FIGHTING" category="physical" pp="25" power="70" accuracy="95"/>
+   <attack name="Rolling Kick" type="FIGHTING" category="physical" pp="15" power="60" accuracy="85"/>
+   <attack name="Sand Attack" type="NORMAL" category="status" pp="15" power="0" accuracy="100"/>
+   <attack name="Headbutt" type="NORMAL" category="physical" pp="15" power="70" accuracy="100"/>
+   <attack name="Horn Attack" type="NORMAL" category="physical" pp="25" power="65" accuracy="100"/>
+   <attack name="Fury Attack" type="NORMAL" category="physical" pp="20" power="15" accuracy="85"/>
+   <attack name="Horn Drill" type="NORMAL" category="physical" pp="5" power="2000" accuracy="30"/>
+   <attack name="Tackle" type="NORMAL" category="physical" pp="35" power="35" accuracy="95"/>
+   <attack name="Body Slam" type="NORMAL" category="physical" pp="15" power="85" accuracy="100"/>
+   <attack name="Wrap" type="NORMAL" category="physical" pp="20" power="15" accuracy="85"/>
+   <attack name="Take Down" type="NORMAL" category="physical" pp="20" power="90" accuracy="85"/>
+   <attack name="Thrash" type="NORMAL" category="physical" pp="20" power="90" accuracy="100"/>
+   <attack name="Double-Edge" type="NORMAL" category="physical" pp="15" power="100" accuracy="100"/>
+   <attack name="Tail Whip" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Poison Sting" type="POISON" category="physical" pp="35" power="15" accuracy="100"/>
+   <attack name="Twineedle" type="BUG" category="physical" pp="20" power="25" accuracy="100"/>
+   <attack name="Pin Missile" type="BUG" category="physical" pp="20" power="14" accuracy="85"/>
+   <attack name="Leer" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Bite" type="NORMAL" category="physical" pp="25" power="60" accuracy="100"/>
+   <attack name="Growl" type="NORMAL" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Roar" type="NORMAL" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Sing" type="NORMAL" category="status" pp="15" power="0" accuracy="55"/>
+   <attack name="Supersonic" type="NORMAL" category="status" pp="20" power="0" accuracy="55"/>
+   <attack name="Sonic Boom" type="NORMAL" category="special" pp="20" power="20" accuracy="90"/>
+   <attack name="Disable" type="NORMAL" category="status" pp="20" power="0" accuracy="80"/>
+   <attack name="Acid" type="POISON" category="special" pp="30" power="40" accuracy="100"/>
+   <attack name="Ember" type="FIRE" category="special" pp="25" power="45" accuracy="100"/>
+   <attack name="Flamethrower" type="FIRE" category="special" pp="15" power="95" accuracy="100"/>
+   <attack name="Mist" type="ICE" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Water Gun" type="WATER" category="special" pp="25" power="45" accuracy="100"/>
+   <attack name="Hydro Pump" type="WATER" category="special" pp="5" power="120" accuracy="80"/>
+   <attack name="Surf" type="WATER" category="special" pp="5" power="95" accuracy="100"/>
+   <attack name="Ice Beam" type="ICE" category="special" pp="10" power="95" accuracy="100"/>
+   <attack name="Blizzard" type="ICE" category="special" pp="5" power="120" accuracy="100"/>
+   <attack name="Psybeam" type="PSYCHIC" category="special" pp="20" power="65" accuracy="100"/>
+   <attack name="Bubble Beam" type="WATER" category="special" pp="20" power="65" accuracy="100"/>
+   <attack name="Aurora Beam" type="ICE" category="special" pp="20" power="65" accuracy="100"/>
+   <attack name="Hyper Beam" type="NORMAL" category="special" pp="5" power="150" accuracy="90"/>
+   <attack name="Peck" type="FLYING" category="physical" pp="35" power="35" accuracy="100"/>
+   <attack name="Drill Peck" type="FLYING" category="physical" pp="20" power="80" accuracy="100"/>
+   <attack name="Submission" type="FIGHTING" category="physical" pp="25" power="80" accuracy="80"/>
+   <attack name="Low Kick" type="FIGHTING" category="physical" pp="20" power="50" accuracy="90"/>
+   <attack name="Counter" type="FIGHTING" category="physical" pp="20" power="0" accuracy="100"/>
+   <attack name="Seismic Toss" type="FIGHTING" category="physical" pp="20" power="50" accuracy="100"/>
+   <attack name="Strength" type="NORMAL" category="physical" pp="15" power="80" accuracy="100"/>
+   <attack name="Absorb" type="GRASS" category="special" pp="20" power="20" accuracy="100"/>
+   <attack name="Mega Drain" type="GRASS" category="special" pp="10" power="40" accuracy="100"/>
+   <attack name="Leech Seed" type="GRASS" category="status" pp="10" power="0" accuracy="90"/>
+   <attack name="Growth" type="NORMAL" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Razor Leaf" type="GRASS" category="physical" pp="25" power="55" accuracy="95"/>
+   <attack name="Solar Beam" type="GRASS" category="special" pp="10" power="120" accuracy="100"/>
+   <attack name="Poison Powder" type="POISON" category="status" pp="35" power="0" accuracy="75"/>
+   <attack name="Stun Spore" type="GRASS" category="status" pp="30" power="0" accuracy="75"/>
+   <attack name="Sleep Powder" type="GRASS" category="status" pp="15" power="0" accuracy="75"/>
+   <attack name="Petal Dance" type="GRASS" category="physical" pp="20" power="70" accuracy="100"/>
+   <attack name="String Shot" type="BUG" category="status" pp="40" power="0" accuracy="95"/>
+   <attack name="Dragon Rage" type="DRAGON" category="special" pp="10" power="40" accuracy="100"/>
+   <attack name="Fire Spin" type="FIRE" category="special" pp="15" power="15" accuracy="70"/>
+   <attack name="Thunder Shock" type="ELECTRIC" category="special" pp="30" power="40" accuracy="100"/>
+   <attack name="Thunderbolt" type="ELECTRIC" category="status" pp="15" power="95" accuracy="100"/>
+   <attack name="Thunder Wave" type="ELECTRIC" category="special" pp="20" power="0" accuracy="100"/>
+   <attack name="Thunder" type="ELECTRIC" category="special" pp="10" power="120" accuracy="70"/>
+   <attack name="Rock Throw" type="ROCK" category="physical" pp="15" power="50" accuracy="65"/>
+   <attack name="Earthquake" type="GROUND" category="physical" pp="10" power="100" accuracy="100"/>
+   <attack name="Fissure" type="GROUND" category="physical" pp="5" power="2000" accuracy="30"/>
+   <attack name="Dig" type="GROUND" category="physical" pp="10" power="100" accuracy="100"/>
+   <attack name="Toxic" type="POISON" category="status" pp="10" power="0" accuracy="85"/>
+   <attack name="Confusion" type="PSYCHIC" category="special" pp="25" power="50" accuracy="100"/>
+   <attack name="Psychic" type="PSYCHIC" category="special" pp="10" power="90" accuracy="100"/>
+   <attack name="Hypnosis" type="PSYCHIC" category="status" pp="20" power="0" accuracy="70"/>
+   <attack name="Meditate" type="PSYCHIC" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Agility" type="PSYCHIC" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Quick Attack" type="NORMAL" category="physical" pp="30" power="40" accuracy="100"/>
+   <attack name="Rage" type="NORMAL" category="physical" pp="20" power="20" accuracy="100"/>
+   <attack name="Teleport" type="PSYCHIC" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Night Shade" type="GHOST" category="special" pp="20" power="0" accuracy="100"/>
+   <attack name="Mimic" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Screech" type="NORMAL" category="status" pp="40" power="0" accuracy="85"/>
+   <attack name="Double Team" type="NORMAL" category="status" pp="15" power="0" accuracy="100"/>
+   <attack name="Recover" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Harden" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Minimize" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Smokescreen" type="NORMAL" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Confuse Ray" type="GHOST" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Withdraw" type="WATER" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Defense Curl" type="NORMAL" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Barrier" type="PSYCHIC" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Light Screen" type="PSYCHIC" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Haze" type="ICE" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Reflect" type="PSYCHIC" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Focus Energy" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Bide" type="NORMAL" category="physical" pp="10" power="0" accuracy="100"/>
+   <attack name="Metronome" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Mirror Move" type="FLYING" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Self-Destruct" type="NORMAL" category="physical" pp="5" power="130" accuracy="100"/>
+   <attack name="Egg Bomb" type="NORMAL" category="physical" pp="10" power="100" accuracy="75"/>
+   <attack name="Lick" type="GHOST" category="physical" pp="30" power="20" accuracy="100"/>
+   <attack name="Smog" type="POISON" category="special" pp="20" power="20" accuracy="70"/>
+   <attack name="Sludge" type="POISON" category="special" pp="20" power="65" accuracy="70"/>
+   <attack name="Bone Club" type="GROUND" category="physical" pp="20" power="65" accuracy="85"/>
+   <attack name="Fire Blast" type="FIRE" category="special" pp="5" power="120" accuracy="85"/>
+   <attack name="Waterfall" type="WATER" category="physical" pp="15" power="80" accuracy="100"/>
+   <attack name="Clamp" type="WATER" category="physical" pp="10" power="35" accuracy="75"/>
+   <attack name="Swift" type="NORMAL" category="special" pp="20" power="60" accuracy="100"/>
+   <attack name="Skull Bash" type="NORMAL" category="physical" pp="15" power="100" accuracy="100"/>
+   <attack name="Spike Cannon" type="NORMAL" category="physical" pp="15" power="20" accuracy="100"/>
+   <attack name="Constrict" type="NORMAL" category="physical" pp="35" power="10" accuracy="100"/>
+   <attack name="Amnesia" type="PSYCHIC" category="status" pp="20" power="0" accuracy="100"/>
+   <attack name="Kinesis" type="PSYCHIC" category="status" pp="15" power="0" accuracy="80"/>
+   <attack name="Soft-Boiled" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="High Jump Kick" type="FIGHTING" category="physical" pp="20" power="85" accuracy="90"/>
+   <attack name="Glare" type="NORMAL" category="status" pp="30" power="0" accuracy="75"/>
+   <attack name="Dream Eater" type="GHOST" category="special" pp="15" power="100" accuracy="100"/>
+   <attack name="Poison Gas" type="POISON" category="status" pp="40" power="0" accuracy="55"/>
+   <attack name="Barrage" type="NORMAL" category="physical" pp="20" power="15" accuracy="85"/>
+   <attack name="Leech Life" type="BUG" category="physical" pp="15" power="20" accuracy="100"/>
+   <attack name="Lovely Kiss" type="NORMAL" category="status" pp="10" power="0" accuracy="75"/>
+   <attack name="Sky Attack" type="FLYING" category="physical" pp="5" power="140" accuracy="90"/>
+   <attack name="Transform" type="NORMAL" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Bubble" type="WATER" category="special" pp="30" power="20" accuracy="100"/>
+   <attack name="Dizzy Punch" type="NORMAL" category="physical" pp="10" power="70" accuracy="100"/>
+   <attack name="Spore" type="GRASS" category="status" pp="15" power="0" accuracy="100"/>
+   <attack name="Flash" type="NORMAL" category="status" pp="20" power="0" accuracy="70"/>
+   <attack name="Psywave" type="PSYCHIC" category="special" pp="15" power="0" accuracy="85"/>
+   <attack name="Splash" type="NORMAL" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Acid Armor" type="POISON" category="status" pp="40" power="0" accuracy="100"/>
+   <attack name="Crabhammer" type="WATER" category="physical" pp="10" power="90" accuracy="85"/>
+   <attack name="Explosion" type="NORMAL" category="physical" pp="5" power="170" accuracy="100"/>
+   <attack name="Fury Swipes" type="NORMAL" category="physical" pp="15" power="18" accuracy="80"/>
+   <attack name="Bonemerang" type="GROUND" category="physical" pp="10" power="50" accuracy="90"/>
+   <attack name="Rest" type="PSYCHIC" category="status" pp="10" power="0" accuracy="100"/>
+   <attack name="Rock Slide" type="ROCK" category="physical" pp="10" power="75" accuracy="90"/>
+   <attack name="Hyper Fang" type="NORMAL" category="physical" pp="15" power="80" accuracy="90"/>
+   <attack name="Sharpen" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Conversion" type="NORMAL" category="status" pp="30" power="0" accuracy="100"/>
+   <attack name="Tri Attack" type="NORMAL" category="special" pp="10" power="80" accuracy="100"/>
+   <attack name="Super Fang" type="NORMAL" category="physical" pp="10" power="0" accuracy="90"/>
+   <attack name="Slash" type="NORMAL" category="physical" pp="20" power="70" accuracy="100"/>
+   <attack name="Substitute" type="NORMAL" category="physical" pp="10" power="0" accuracy="100"/>
+   <attack name="Struggle" type="NORMAL" category="physical" pp="10" power="50" accuracy="100"/>
+</attacks>

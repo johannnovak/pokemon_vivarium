@@ -1,0 +1,14 @@
+		BASIC
+-  Attack   => inheritance of attacks (hurting/status/...)
+-  correct bug of xp gained
+-  correct bug of attack against weak, etc...
+-	ccorect bug of second  window
+-	correct bug of click on pokemon
+-	look why condition if pokemon leaved map make all lag
+-	change algoririthm to look for sprites (do with the 1px margin image)
+-  finish pok-sprites & pokedex > create script to get things from html
+-	change sprite sheets for pokemons : all in one and change where to get new Texture
+
+	ADVANCED
+-  Fight => choice of attack more elaborated
+-	quad tree for collision

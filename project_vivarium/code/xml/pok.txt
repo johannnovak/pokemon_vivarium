@@ -1,0 +1,12 @@
+	<pokemon name="Pokémon games" number="038" type1="FIRE" type2="FIRE" basexp="178" xpcat="Medium Fast" hp="73" attack="76" defense="75" speattack="81" spedefense="100" speed="100" base="false" evolutionLvl="0" evolutionName="none" evolutionNb="0">
+		<evs>
+			<ev nb="1" name="Special Defense"/>
+			<ev nb="1" name="Speed"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="1" name="Roar"/>
+			<attack lvl="1" name="Ember"/>
+			<attack lvl="1" name="Quick Attack"/>
+		</attackList>
+	</pokemon>

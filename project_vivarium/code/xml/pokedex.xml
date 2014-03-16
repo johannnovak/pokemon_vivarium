@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pokedex>
+   <pokemon name="Bulbasaur" number="1" hp="45" attack="49" defense="49" speed="45" speattack="65" spedefense="65" type1="GRASS" type2="POISON" evolutionLvl="16" evolutionNb="2" evolutionName="Ivysaur" base="true" xpcat="medium slow" basexp="64">
+      <evs>
+         <ev name="speattack" nb="1"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Tackle"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="7" name="Leech Seed"/>
+         <attack lvl="13" name="Vine Whip"/>
+         <attack lvl="20" name="Poison Powder"/>
+         <attack lvl="27" name="Razor Leaf"/>
+         <attack lvl="34" name="Growth"/>
+         <attack lvl="41" name="Sleep Powder"/>
+         <attack lvl="48" name="Solar Beam"/>
+      </attackList>
+   </pokemon>
+   <pokemon name="Ivysaur" number="2" hp="60" attack="62" defense="63" speed="60" speattack="80" spedefense="80" type1="GRASS" type2="POISON"  evolutionLvl="32" evolutionNb="3" evolutionName="Venusaur" base="false" xpcat="medium slow" basexp="141">
+      <evs>
+         <ev name="speattack" nb="1"/>
+         <ev name="spedefense" nb="1"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Tackle"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="1" name="Leech Seed"/>
+         <attack lvl="13" name="Vine Whip"/>
+         <attack lvl="22" name="Poison Powder"/>
+         <attack lvl="30" name="Razor Leaf"/>
+         <attack lvl="38" name="Growth"/>
+         <attack lvl="46" name="Sleep Powder"/>
+         <attack lvl="54" name="Solar Beam"/>
+      </attackList>
+   </pokemon>
+   <pokemon name="Venusaur" number="3" hp="80" attack="8" defense="83" speed="80" speattack="100" spedefense="100" type1="GRASS" type2="POISON" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium slow" basexp="208">
+      <evs>
+         <ev name="speattack" nb="2"/>
+         <ev name="spedefense" nb="1"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Tackle"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="1" name="Leech Seed"/>
+         <attack lvl="1" name="Vine Whip"/>
+         <attack lvl="22" name="Poison Powder"/>
+         <attack lvl="30" name="Razor Leaf"/>
+         <attack lvl="43" name="Growth"/>
+         <attack lvl="55" name="Sleep Powder"/>
+         <attack lvl="65" name="Solar Beam"/>
+      </attackList>
+   </pokemon>
+   <pokemon name="Charmander" number="4" hp="39" attack="52" defense="43" speed="65" speattack="60" spedefense="50" type1="FIRE" type2="FIRE" evolutionLvl="16" evolutionNb="5" evolutionName="Charmeleon" base="true" xpcat="medium slow" basexp="65">
+      <evs>
+         <ev name="speed" nb="1"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Scratch"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="9" name="Ember"/>
+         <attack lvl="15" name="Leer"/>
+         <attack lvl="22" name="Rage"/>
+         <attack lvl="30" name="Slash"/>
+         <attack lvl="38" name="Flamethrower"/>
+         <attack lvl="46" name="Fire Spin"/>
+      </attackList>
+   </pokemon>
+   <pokemon name="Charmeleon" number="5" hp="58" attack="64" defense="58" speed="80" speattack="80" spedefense="65" type1="FIRE" type2="FIRE"  evolutionLvl="36" evolutionNb="6" evolutionName="Charizard" base="false" xpcat="medium slow" basexp="142">
+      <evs>
+         <ev name="speed" nb="1"/>
+         <ev name="speattack" nb="1"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Scratch"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="1" name="Ember"/>
+         <attack lvl="15" name="Leer"/>
+         <attack lvl="24" name="Rage"/>
+         <attack lvl="33" name="Slash"/>
+         <attack lvl="42" name="Flamethrower"/>
+         <attack lvl="56" name="Fire Spin"/>
+      </attackList>
+   </pokemon>
+   <pokemon name="Charizard" number="6" hp="78" attack="84" defense="78" speed="100" speattack="109" spedefense="85" type1="FIRE" type2="FLYING"  evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium slow" basexp="209">
+      <evs>
+         <ev name="speattack" nb="3"/>
+      </evs>
+      <attackList>
+         <attack lvl="1" name="Scratch"/>
+         <attack lvl="1" name="Growl"/>
+         <attack lvl="1" name="Ember"/>
+         <attack lvl="1" name="Leer"/>
+         <attack lvl="24" name="Rage"/>
+         <attack lvl="36" name="Slash"/>
+         <attack lvl="46" name="Flamethrower"/>
+         <attack lvl="55" name="Fire Spin"/>
+      </attackList>
+   </pokemon>
+	<pokemon name="Squirtle" number="7" hp="44" attack="48" defense="65" speed="43" speattack="50" spedefense="64" type1="WATER" type2="WATER" evolutionLvl="16" evolutionNb="8" evolutionName="Wartortle" base="true" xpcat="medium slow" basexp="66">
+		<evs>
+			<ev name="defense" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="8" name="Bubble"/>
+			<attack lvl="15" name="Water Gun"/>
+			<attack lvl="22" name="Bite"/>
+			<attack lvl="28" name="Withdraw"/>
+			<attack lvl="35" name="Skull Bash"/>
+			<attack lvl="42" name="Hydro Pump"/>
+      </attackList>
+	</pokemon>
+	<pokemon name="Wartortle" number="8" hp="59" attack="63" defense="80" speed="58" speattack="65" spedefense="80" type1="WATER" type2="WATER" evolutionLvl="36" evolutionNb="9" evolutionName="Blastoise" base="false" xpcat="medium slow" basexp="143">
+		<evs>
+			<ev name="defense" nb="1"/>
+			<ev name="spedefense" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="1" name="Bubble"/>
+			<attack lvl="15" name="Water Gun"/>
+			<attack lvl="24" name="Bite"/>
+			<attack lvl="31" name="Withdraw"/>
+			<attack lvl="39" name="Skull Bash"/>
+			<attack lvl="47" name="Hydro Pump"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Blastoise" number="9" hp="79" attack="83" defense="100" speed="78" speattack="85" spedefense="105" type1="WATER" type2="WATER" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium slow" basexp="210">
+		<evs>
+			<ev name="spedefense" nb="3"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="1" name="Bubble"/>
+			<attack lvl="1" name="Water Gun"/>
+			<attack lvl="24" name="Bite"/>
+			<attack lvl="31" name="Withdraw"/>
+			<attack lvl="42" name="Skull Bash"/>
+			<attack lvl="52" name="Hydro Pump"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Caterpie" number="10" hp="45" attack="30" defense="35" speed="45" speattack="20" spedefense="20" type1="BUG" type2="BUG" evolutionLvl="7" evolutionNb="11" evolutionName="Metapod" base="true" xpcat="medium fast" basexp="53">
+		<evs>
+			<ev name="hp" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="String Shot"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Metapod" number="11" hp="50" attack="20" defense="55" speed="30" speattack="25" spedefense="25" type1="BUG" type2="BUG" evolutionLvl="10" evolutionNb="12" evolutionName="Butterfree" base="false" xpcat="medium fast" basexp="72">
+		<evs>
+			<ev name="defense" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Harden"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Butterfree" number="12" hp="60" attack="45" defense="50" speed="70" speattack="80" spedefense="80" type1="BUG" type2="FLYING" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="160">
+		<evs>
+			<ev name="speattack" nb="2"/>
+			<ev name="spedefense" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Confusion"/>
+			<attack lvl="13" name="Poison Powder"/>
+			<attack lvl="14" name="Stun Spore"/>
+			<attack lvl="15" name="Sleep Powder"/>
+			<attack lvl="18" name="Supersonic"/>
+			<attack lvl="23" name="Whirlwind"/>
+			<attack lvl="28" name="Gust"/>
+			<attack lvl="34" name="Psybeam"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Weedle" number="13" hp="40" attack="35" defense="30" speed="50" speattack="20" spedefense="20" type1="BUG" type2="POISON" evolutionLvl="7" evolutionNb="14" evolutionName="Kakuna" base="true" xpcat="medium fast" basexp="52">
+		<evs>
+			<ev name="speed" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Poison Sting"/>
+			<attack lvl="1" name="String Shot"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Kakuna" number="14" hp="45" attack="25" defense="50" speed="35" speattack="25" spedefense="25" type1="BUG" type2="POISON" evolutionLvl="10" evolutionNb="15" evolutionName="Beedrill" base="false" xpcat="medium fast" basexp="71">
+		<evs>
+			<ev name="defense" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Harden"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Beedrill" number="15" hp="65" attack="80" defense="40" speed="75" speattack="45" spedefense="80" type1="BUG" type2="POISON" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="159">
+		<evs>
+			<ev name="attack" nb="2"/>
+			<ev name="spedefense" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Fury Attack"/>
+			<attack lvl="16" name="Focus Energy"/>
+			<attack lvl="20" name="Twineedle"/>
+			<attack lvl="25" name="Rage"/>
+			<attack lvl="30" name="Pin Missile"/>
+			<attack lvl="35" name="Agility"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Pidgey" number="16" hp="40" attack="45" defense="40" speed="56" speattack="35" spedefense="35" type1="NORMAL" type2="FLYING" evolutionLvl="18" evolutionNb="17" evolutionName="Pidgeotto" base="true" xpcat="medium slow" basexp="55">
+		<evs>
+			<ev name="speed" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Gust"/>
+			<attack lvl="5" name="Sand Attack"/>
+			<attack lvl="12" name="Quick Attack"/>
+			<attack lvl="19" name="Whirlwind"/>
+			<attack lvl="28" name="Wing Attack"/>
+			<attack lvl="36" name="Agility"/>
+			<attack lvl="44" name="Mirror Move"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Pidgeotto" number="17" hp="63" attack="60" defense="55" speed="71" speattack="50" spedefense="50" type1="NORMAL" type2="FLYING" evolutionLvl="36" evolutionNb="18" evolutionName="Pidgeot" base="false" xpcat="medium slow" basexp="113">
+		<evs>
+			<ev name="speed" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Gust"/>
+			<attack lvl="1" name="Sand Attack"/>
+			<attack lvl="12" name="Quick Attack"/>
+			<attack lvl="21" name="Whirlwind"/>
+			<attack lvl="31" name="Wing Attack"/>
+			<attack lvl="40" name="Agility"/>
+			<attack lvl="49" name="Mirror Move"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Pidgeot" number="18" hp="83" attack="80" defense="75" speed="91" speattack="70" spedefense="70" type1="NORMAL" type2="FLYING" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium slow" basexp="172">
+		<evs>
+			<ev name="speed" nb="3"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Gust"/>
+			<attack lvl="1" name="Sand Attack"/>
+			<attack lvl="1" name="Quick Attack"/>
+			<attack lvl="21" name="Whirlwind"/>
+			<attack lvl="31" name="Wing Attack"/>
+			<attack lvl="44" name="Agility"/>
+			<attack lvl="54" name="Mirror Move"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Rattata" number="19" hp="30" attack="56" defense="35" speed="72" speattack="25" spedefense="35" type1="NORMAL" type2="NORMAL" evolutionLvl="20" evolutionNb="20" evolutionName="Raticate" base="true" xpcat="medium fast" basexp="57">
+		<evs>
+			<ev name="speed" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="7" name="Quick Attack"/>
+			<attack lvl="14" name="Hyper Fang"/>
+			<attack lvl="23" name="Focus Energy"/>
+			<attack lvl="34" name="Super Fang"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Raticate" number="20" hp="55" attack="81" defense="60" speed="97" speattack="50" spedefense="70" type1="NORMAL" type2="NORMAL" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="116">
+		<evs>
+			<ev name="speed" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Tail Whip"/>
+			<attack lvl="1" name="Quick Attack"/>
+			<attack lvl="14" name="Hyper Fang"/>
+			<attack lvl="27" name="Focus Energy"/>
+			<attack lvl="41" name="Super Fang"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Spearow" number="21" hp="40" attack="60" defense="30" speed="70" speattack="31" spedefense="31" type1="NORMAL" type2="FLYING" evolutionLvl="20" evolutionNb="22" evolutionName="Fearow" base="true" xpcat="medium fast" basexp="58">
+		<evs>
+			<ev name="speed" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="1" name="Peck"/>
+			<attack lvl="9" name="Leer"/>
+			<attack lvl="15" name="Fury Attack"/>
+			<attack lvl="22" name="Mirror Move"/>
+			<attack lvl="29" name="Drill Peck"/>
+			<attack lvl="36" name="Agility"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Fearow" number="22" hp="65" attack="90" defense="65" speed="100" speattack="61" spedefense="61" type1="NORMAL" type2="FLYING" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="162">
+		<evs>
+			<ev name="speed" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Leer"/>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="1" name="Peck"/>
+			<attack lvl="15" name="Fury Attack"/>
+			<attack lvl="25" name="Mirror Move"/>
+			<attack lvl="34" name="Drill Peck"/>
+			<attack lvl="43" name="Agility"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Ekans" number="23" hp="35" attack="60" defense="44" speed="55" speattack="40" spedefense="54" type1="POISON" type2="POISON" evolutionLvl="22" evolutionNb="24" evolutionName="Arbok" base="true" xpcat="medium fast" basexp="62">
+		<evs>
+			<ev name="attack" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Wrap"/>
+			<attack lvl="1" name="Leer"/>
+			<attack lvl="10" name="Poison Sting"/>
+			<attack lvl="17" name="Bite"/>
+			<attack lvl="24" name="Glare"/>
+			<attack lvl="31" name="Screech"/>
+			<attack lvl="38" name="Acid"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Arbok" number="24" hp="60" attack="85" defense="69" speed="80" speattack="65" spedefense="79" type1="POISON" type2="POISON" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="147">
+		<evs>
+			<ev name="attack" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Wrap"/>
+			<attack lvl="1" name="Poison Sting"/>
+			<attack lvl="1" name="Leer"/>
+			<attack lvl="17" name="Bite"/>
+			<attack lvl="27" name="Glare"/>
+			<attack lvl="36" name="Screech"/>
+			<attack lvl="47" name="Acid"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Pikachu" number="25" hp="35" attack="55" defense="30" speed="90" speattack="50" spedefense="40" type1="ELECTRIC" type2="ELECTRIC" evolutionLvl="0" evolutionNb="26" evolutionName="Raichu" base="true" xpcat="medium fast" basexp="82">
+		<evs>
+			<ev name="speed" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="1" name="Thunder Shock"/>
+			<attack lvl="6" name="Tail Whip"/>
+			<attack lvl="8" name="Thunder Wave"/>
+			<attack lvl="11" name="Quick Attack"/>
+			<attack lvl="15" name="Double Team"/>
+			<attack lvl="20" name="Slam"/>
+			<attack lvl="26" name="Thunderbolt"/>
+			<attack lvl="33" name="Agility"/>
+			<attack lvl="41" name="Thunder"/>
+			<attack lvl="50" name="Light Screen"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Raichu" number="26" hp="60" attack="90" defense="55" speed="100" speattack="90" spedefense="80" type1="ELECTRIC" type2="ELECTRIC" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="122">
+		<evs>
+			<ev name="speed" nb="3"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="1" name="Thunder Shock"/>
+			<attack lvl="1" name="Thunder Wave"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Sandshrew" number="27" hp="50" attack="75" defense="85" speed="40" speattack="20" spedefense="30" type1="GROUND" type2="GROUND" evolutionLvl="22" evolutionNb="28" evolutionName="Sandslash" base="true" xpcat="medium fast" basexp="93">
+		<evs>
+			<ev name="defense" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Scratch"/>
+			<attack lvl="10" name="Sand Attack"/>
+			<attack lvl="17" name="Slash"/>
+			<attack lvl="24" name="Poison Sting"/>
+			<attack lvl="31" name="Swift"/>
+			<attack lvl="38" name="Fury Swipes"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Sandslash" number="28" hp="75" attack="100" defense="110" speed="65" speattack="45" spedefense="55" type1="GROUND" type2="GROUND" evolutionLvl="0" evolutionNb="0" evolutionName="none" base="false" xpcat="medium fast" basexp="163">
+		<evs>
+			<ev name="defense" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Scratch"/>
+			<attack lvl="1" name="Sand Attack"/>
+			<attack lvl="17" name="Slash"/>
+			<attack lvl="27" name="Poison Sting"/>
+			<attack lvl="36" name="Swift"/>
+			<attack lvl="47" name="Fury Swipes"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Nidoran(f)" number="29" hp="55" attack="47" defense="52" speed="41" speattack="40" spedefense="40" type1="POISON" type2="POISON" evolutionLvl="16" evolutionNb="30" evolutionName="Nidorina" base="true" xpcat="medium slow" basexp="59">
+		<evs>
+			<ev name="hp" nb="1"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="8" name="Scratch"/>
+			<attack lvl="14" name="Poison Sting"/>
+			<attack lvl="21" name="Tail Whip"/>
+			<attack lvl="29" name="Bite"/>
+			<attack lvl="36" name="Fury Swipes"/>
+			<attack lvl="43" name="Double Kick"/>
+		</attackList>
+	</pokemon>
+	<pokemon name="Nidorina" number="30" hp="70" attack="62" defense="67" speed="56" speattack="55" spedefense="55" type1="POISON" type2="POISON" evolutionLvl="0" evolutionNb="31" evolutionName="Nidoqueen" base="false" xpcat="medium slow" basexp="117">
+		<evs>
+			<ev name="hp" nb="2"/>
+		</evs>
+		<attackList>
+			<attack lvl="1" name="Scratch"/>
+			<attack lvl="1" name="Tackle"/>
+			<attack lvl="1" name="Growl"/>
+			<attack lvl="14" name="Poison Sting"/>
+			<attack lvl="23" name="Tail Whip"/>
+			<attack lvl="32" name="Bite"/>
+			<attack lvl="41" name="Fury Swipes"/>
+			<attack lvl="50" name="Double Kick"/>
+		</attackList>
+	</pokemon>
+</pokedex>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pokemonTypes>
+   <type name="GRASS">
+      <weakTo>
+         <type name="FIRE"/>
+         <type name="ICE"/>
+         <type name="BUG"/>
+         <type name="FLYING"/>
+         <type name="POISON"/>
+      </weakTo>
+      <resistantTo>
+         <type name="WATER"/>
+         <type name="GROUND"/>
+         <type name="ELECTRIC"/>
+         <type name="GRASS"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="WATER"/>
+         <type name="ROCK"/>
+         <type name="GROUND"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FIRE"/>
+         <type name="GRASS"/>
+         <type name="DRAGON"/>
+         <type name="FLYING"/>
+         <type name="BUG"/>
+         <type name="POISON"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type>
+   <type name="FIRE">
+      <weakTo>
+         <type name="WATER"/>
+         <type name="GROUND"/>
+         <type name="ROCK"/>
+      </weakTo>
+      <resistantTo>
+         <type name="FIRE"/>
+         <type name="BUG"/>
+         <type name="ICE"/>
+         <type name="GRASS"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="GRASS"/>
+         <type name="BUG"/>
+         <type name="ICE"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FIRE"/>
+         <type name="WATER"/>
+         <type name="ROCK"/>
+         <type name="DRAGON"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type>
+   <type name="WATER">
+      <weakTo>
+         <type name="ELECTRIC"/>
+         <type name="GRASS"/>
+      </weakTo>
+      <resistantTo>
+         <type name="FIRE"/>
+         <type name="WATER"/>
+         <type name="ICE"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="FIRE"/>
+         <type name="GROUND"/>
+         <type name="ROCK"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="WATER"/>
+         <type name="DRAGON"/>
+         <type name="GRASS"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type>
+   <type name="ELECTRIC">
+      <weakTo>
+         <type name="GROUND"/>
+      </weakTo>
+      <resistantTo>
+         <type name="FLYING"/>
+         <type name="ELECTRIC"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="WATER"/>
+         <type name="FLYING"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="ELECTRIC"/>
+         <type name="GRASS"/>
+      </notEfficientOn>
+      <inefficientOn>
+         <type name="GROUND"/>
+      </inefficientOn>
+   </type>
+   <type name="POISON">
+      <weakTo>
+         <type name="GROUND"/>
+         <type name="PSYCHIC"/>
+         <type name="BUG"/>
+      </weakTo>
+      <resistantTo>
+         <type name="FIGHTING"/>
+         <type name="POISON"/>
+         <type name="GRASS"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="GRASS"/>
+         <type name="BUG"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="POISON"/>
+         <type name="ROCK"/>
+         <type name="GROUND"/>
+         <type name="GHOST"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type>
+   <type name="ROCK">
+      <weakTo>
+         <type name="GROUND"/>
+         <type name="WATER"/>
+         <type name="GRASS"/>
+         <type name="FIGHTING"/>
+      </weakTo>
+      <resistantTo>
+         <type name="POISON"/>
+         <type name="NORMAL"/>
+         <type name="FLYING"/>
+         <type name="FIRE"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="ICE"/>
+         <type name="FIRE"/>
+         <type name="BUG"/>
+         <type name="FLYING"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="GROUND"/>
+         <type name="FIGHTING"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type>
+   <type name="GROUND">
+      <weakTo>
+         <type name="WATER"/>
+         <type name="ICE"/>
+         <type name="GRASS"/>
+      </weakTo>
+      <resistantTo>
+         <type name="ROCK"/>
+         <type name="POISON"/>
+      </resistantTo>
+      <immuneTo>
+         <type name="ELECTRIC"/>
+      </immuneTo>
+      <efficientOn>
+         <type name="ELECTRIC"/>
+         <type name="POISON"/>
+         <type name="ROCK"/>
+         <type name="FIRE"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="BUG"/>
+         <type name="GRASS"/>
+      </notEfficientOn>
+      <inefficientOn>
+         <type name="FLYING"/>
+      </inefficientOn>
+   </type>
+   <type name="NORMAL">
+      <weakTo>
+         <type name="FIGHTING"/>
+      </weakTo>
+      <resistantTo>
+      </resistantTo>
+      <immuneTo>
+         <type name="GHOST"/>
+      </immuneTo>
+      <efficientOn>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="ROCK"/>
+      </notEfficientOn>
+      <inefficientOn>
+         <type name="GHOST"/>
+      </inefficientOn>
+   </type>
+   <type name="GHOST">
+      <weakTo>
+         <type name="GHOST"/>
+      </weakTo>
+      <resistantTo>
+         <type name="BUG"/>
+         <type name="POISON"/>
+      </resistantTo>
+      <immuneTo>
+         <type name="FIGHTING"/>
+         <type name="NORMAL"/>
+      </immuneTo>
+      <efficientOn>
+         <type name="GHOST"/>
+      </efficientOn>
+      <notEfficientOn>
+      </notEfficientOn>
+      <inefficientOn>
+         <type name="PSYCHIC"/>
+         <type name="NORMAL"/>
+      </inefficientOn>
+   </type>
+   <type name="FIGHTING">
+      <weakTo>
+         <type name="FLYING"/>
+         <type name="PSYCHIC"/>
+      </weakTo>
+      <resistantTo>
+         <type name="BUG"/>
+         <type name="DARK"/>
+         <type name="ROCK"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="ROCK"/>
+         <type name="ICE"/>
+         <type name="DARK"/>
+         <type name="NORMAL"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FLYING"/>
+         <type name="POISON"/>
+         <type name="BUG"/>
+         <type name="PSYCHIC"/>
+      </notEfficientOn>
+      <inefficientOn>
+         <type name="GHOST"/>
+      </inefficientOn>
+   </type> 
+   <type name="FLYING">
+      <weakTo>
+         <type name="ICE"/>
+         <type name="ELECTRIC"/>
+         <type name="ROCK"/>
+      </weakTo>
+      <resistantTo>
+         <type name="BUG"/>
+         <type name="FIGHTING"/>
+         <type name="GRASS"/>
+      </resistantTo>
+      <immuneTo>
+         <type name="GROUND"/>
+      </immuneTo>
+      <efficientOn>
+         <type name="GRASS"/>
+         <type name="FIGHTING"/>
+         <type name="BUG"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="ELECTRIC"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+   <type name="PSYCHIC">
+      <weakTo>
+         <type name="BUG"/>
+      </weakTo>
+      <resistantTo>
+         <type name="PSYCHIC"/>
+         <type name="FIGHTING"/>
+      </resistantTo>
+      <immuneTo>
+         <type name="GHOST"/>
+      </immuneTo>
+      <efficientOn>
+         <type name="POISON"/>
+         <type name="FIGHTING"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="PSYCHIC"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+   <type name="ICE">
+      <weakTo>
+         <type name="FIRE"/>
+         <type name="FIGHTING"/>
+         <type name="ROCK"/>
+      </weakTo>
+      <resistantTo>
+         <type name="ICE"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="GROUND"/>
+         <type name="FLYING"/>
+         <type name="GRASS"/>
+         <type name="DRAGON"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FIRE"/>
+         <type name="WATER"/>
+         <type name="ICE"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+   <type name="BUG">
+      <weakTo>
+         <type name="FIRE"/>
+         <type name="POISON"/>
+         <type name="GROUND"/>
+         <type name="FLYING"/>
+      </weakTo>
+      <resistantTo>
+         <type name="FIGHTING"/>
+         <type name="GRASS"/>
+         <type name="FLYING"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="PSYCHIC"/>
+         <type name="POISON"/>
+         <type name="GRASS"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FIRE"/>
+         <type name="FIGHTING"/>
+         <type name="GHOST"/>
+         <type name="FLYING"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+   <type name="DARK">
+      <weakTo>
+         <type name="FIGHTING"/>
+         <type name="BUG"/>
+      </weakTo>
+      <resistantTo>
+         <type name="GHOST"/>
+         <type name="DARK"/>
+      </resistantTo>
+      <immuneTo>
+         <type name="PSYCHIC"/>
+      </immuneTo>
+      <efficientOn>
+         <type name="PSYCHIC"/>
+         <type name="GHOST"/>
+      </efficientOn>
+      <notEfficientOn>
+         <type name="FIGHTING"/>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+   <type name="DRAGON">
+      <weakTo>
+         <type name="ICE"/>
+         <type name="DRAGON"/>
+      </weakTo>
+      <resistantTo>
+         <type name="GRASS"/>
+         <type name="FIRE"/>
+         <type name="ELECTRIC"/>
+         <type name="WATER"/>
+      </resistantTo>
+      <immuneTo>
+      </immuneTo>
+      <efficientOn>
+         <type name="DRAGON"/>
+      </efficientOn>
+      <notEfficientOn>
+      </notEfficientOn>
+      <inefficientOn>
+      </inefficientOn>
+   </type> 
+</pokemonTypes>
